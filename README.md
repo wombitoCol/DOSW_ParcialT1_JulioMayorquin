@@ -3,13 +3,13 @@
 ![alt text](https://github.com/wombitoCol/DOSW_ParcialT1_JulioMayorquin/blob/develop/DOSW-ParcialT1/docs/uml/image-1.png)
 ## Segundo punto
 En el caso de estudio podemos utilizar los siguientes dos patrones de diseño:
-### Strategy (Comportamiento)
-Este lo podemos utilizar ya que tenemos varias estrategias digamos que tenemos eventEstrategy que es una interfaz y en este estan los tres tipo de eventos que se pueden realizar, esto nos ayuda un monton ya que nos da polimorfismo con un metodo compartido de todos los eventos y ademas de eso tiene logica ya que nos importa el COMO funciona cada uno de los eventos pero compartes que son eventos.
+### Factory (Creacional)
+Este lo podemos utilizar ya que necesitamos crear diferentes tipos de eventos y el metodo factory ya que tengo una super clase la cual va a ser los eventos y unas subclases que seran los eventos especificos, entonces diagamos que la superclase va creando el vento que yo quiera en este caso digamos una conferencia entonces la subclase conferencia le pide a la superclase eventos que cree un objeto evento esto es muy util ya que podemos crear varios tipos de eventos bien encapsulados y extensible porque si quiero crear un nuevo tipo de evento solo creo una nueva subclase con el nuevo evento.
 ### Adapter (Estructural)
 Adapter nos es muy util ya que podemos ver que estamos utilizando diferentes sistemas en este caso el sistema academico y sistema RRHH, en estos podemos utilizar un adapter el cual sera un metodo que "traduzca" los datos que les da este sistema a nuestro aplicativo EventSync. 
 ## Tercer Punto 
 ### Requerimientos Funcionales
-- Crear eventos segun su tipo. (Estrategy)
+- Crear eventos segun su tipo. (Factory)
 - Registrar inscripcion de asistentes. (Adapter)
 - Notificiacion de cambios a los inscritos. 
 ### Requerimientos No Funcionales 
