@@ -31,11 +31,22 @@ DOSW-ParcialT1/docs/requirements
 ## Sexto Punto
 ### Epica
 Gestionar eventos academicos del campus.
+### features
+Usuarios de la universidad piden opciones para crear, inscribir y consultar eventos.
 ### Historia de usuario 
-Los usuarios quieren tener la capacidad de registrar un evento con una cierta cantidad de especificaciones.
+Los usuarios deben tener la capacidad de registrar un evento con una cierta cantidad de especificaciones.
+Los usuarios deben terner la capacidad de Inscribirse en un evento existente.
+Los usuarios deben poder consultar las fechas y horarios de los eventos.
 ### Tareas 
 - Crear eventos.
 - A estos eventos darle unas caracteristicas.
 - Ver si el usuario lo puede crear.
 - Al crearlo verificar si es posible.
 - Crear el evento.
+#### segunda tarea
+- Verificar usuario
+- verificar tarea existente
+- Inscribir y llenar cupo
+#### Tercera tarea 
+- Funcion usuario ver sus inscripciones
+- En funcion agregar fecha y hora del evento en tiempo real 
