@@ -39,3 +39,5 @@ Los usuarios quieren tener la capacidad de registrar un evento con una cierta ca
 - Ver si el usuario lo puede crear.
 - Al crearlo verificar si es posible.
 - Crear el evento.
+### Septimo Punto 
+![alt text](image-1.png)
