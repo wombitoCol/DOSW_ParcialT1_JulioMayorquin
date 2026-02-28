@@ -1,6 +1,6 @@
 # DOSW_ParcialT1_JulioMayorquin
 ## Primer punto 
-![alt text](image-1.png)
+![alt text](https://github.com/wombitoCol/DOSW_ParcialT1_JulioMayorquin/blob/develop/DOSW-ParcialT1/docs/uml/image-1.png)
 ## Segundo punto
 En el caso de estudio podemos utilizar los siguientes dos patrones de diseño:
 ### Strategy (Comportamiento)
