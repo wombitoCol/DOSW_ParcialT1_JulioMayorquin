@@ -18,13 +18,17 @@ Adapter nos es muy util ya que podemos ver que estamos utilizando diferentes sis
 ## Cuarto Punto 
 ![alt text](https://github.com/wombitoCol/DOSW_ParcialT1_JulioMayorquin/blob/develop/DOSW-ParcialT1/docs/uml/newCaseUsesDiagram.png)
 ### Primer Caso de uso 
-- COMO usuario de EventSync
-- QUIERO poder registrar nuevos eventos en una interfaz que me permita ingresar su tipo, fecha y cupo.
+- COMO usuario de EventSync profesor
+- QUIERO poder registrar nuevos eventos en una interfaz que me permita ingresar su tipo, fecha y cupo, a la vez de poder Inscribirme en estas.
 - PARA que la comunidad de la universidad se puedan enterar e inscribirse si les interesa
 ### Segundo caso de uso 
-- COMO usuario de EventSync. 
+- COMO usuario de EventSync Estudiante. 
 - QUIERO poder consultar en la pagina principal la fecha de un evento al que este registrado.
 - PARA poder ver si se a modificado la fecha de realizacion del evento.
+### Tercer Caso de uso
+- COMO usuario de EventSync Administrativo.
+- QUIERO poder registrar nuevos eventos en una interfaz que me permita ingresar su tipo, fecha y cupo.
+- PARA que estudiantes y profesores puedan ingresar a eventos especiales.
 ## Quinto Punto
 Ir al directorio del proyecto
 DOSW-ParcialT1/docs/requirements
