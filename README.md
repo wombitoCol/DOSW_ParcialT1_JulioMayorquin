@@ -25,3 +25,17 @@ Adapter nos es muy util ya que podemos ver que estamos utilizando diferentes sis
 - COMO usuario de EventSync. 
 - QUIERO poder consultar en la pagina principal la fecha de un evento al que este registrado.
 - PARA poder ver si se a modificado la fecha de realizacion del evento.
+## Quinto Punto
+Ir al directorio del proyecto
+DOSW-ParcialT1/docs/requirements
+## Sexto Punto
+### Epica
+Gestionar eventos academicos del campus.
+### Historia de usuario 
+Los usuarios quieren tener la capacidad de registrar un evento con una cierta cantidad de especificaciones.
+### Tareas 
+- Crear eventos.
+- A estos eventos darle unas caracteristicas.
+- Ver si el usuario lo puede crear.
+- Al crearlo verificar si es posible.
+- Crear el evento.
