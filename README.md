@@ -54,3 +54,5 @@ Los usuarios deben poder consultar las fechas y horarios de los eventos.
 #### Tercera tarea 
 - Funcion usuario ver sus inscripciones
 - En funcion agregar fecha y hora del evento en tiempo real 
+## Septimo punto
+![alt text](image.png)
