@@ -16,7 +16,7 @@ Adapter nos es muy util ya que podemos ver que estamos utilizando diferentes sis
 - La aplicacion debe tener el tipo de fuente Arial 12.
 - La apliacacion muestra a los usuarios los cambios de fechas en la interfaz con un color rojo.
 ## Cuarto Punto 
-![alt text](image-3.png)
+![alt text](https://github.com/wombitoCol/DOSW_ParcialT1_JulioMayorquin/blob/develop/DOSW-ParcialT1/docs/uml/image-3.png)
 ### Primer Caso de uso 
 - COMO usuario de EventSync
 - QUIERO poder registrar nuevos eventos en una interfaz que me permita ingresar su tipo, fecha y cupo.
